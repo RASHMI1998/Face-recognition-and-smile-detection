@@ -13,7 +13,7 @@ following modules:-
 
 
 3. Face Recogntion and Smile Detection: It allows you real time face recognition and smile detection. After running the python code, the 
-                  camera starts running and when you pause using the keyboard keys by pressing 'p' on the keyboard, the code detects the 
+                  camera starts running and when you pause by pressing 'p' on the keyboard, the code detects the 
                   faces and allows smile detection. The smile detection is done using trained datasets namely, 
                   haarcascade_frontalface_default and haarcascade_smile.
                   
