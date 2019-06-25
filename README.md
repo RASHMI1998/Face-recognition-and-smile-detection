@@ -1,7 +1,7 @@
 # Real_time_face_recognition_and_smile_detection
 
 
-This allows you to recognize faces from a respository of faces collected and helps you in real time smile detection. It includes the
+This allows you to recognize faces from a repository of faces collected and helps you in real time smile detection. It includes the
 following modules:-
 
 
